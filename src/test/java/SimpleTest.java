@@ -14,10 +14,10 @@ public class SimpleTest {
 
         @Test
         public void TestGmailSendingLetter(){
-        final String FIRST_EMAIL_LOGIN = "labepamone";
-        final String FIRST_EMAIL_PWD = "lab123456epam";
-        final String SECOND_EMAIL_LOGIN = "labepamtwo";
-        final String SECOND_EMAIL_PWD = "lab123456epam";
+        final String FIRST_EMAIL_LOGIN = "";
+        final String FIRST_EMAIL_PWD = "";
+        final String SECOND_EMAIL_LOGIN = "";
+        final String SECOND_EMAIL_PWD = "";
         final String MESSAGE_TITLE = "Test_Message";
         final String MESSAGE_TEXT = "Test_Message_Text";
 
